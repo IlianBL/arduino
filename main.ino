@@ -4,7 +4,7 @@
 #include "Arduino.h"
 
 // the setup function runs once when you press reset or power the board
-void setup()
+void setup(  )
 {
 }
 
@@ -12,3 +12,4 @@ void setup()
 void loop()
 {
 }
+//
